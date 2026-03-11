@@ -1,4 +1,4 @@
-package entity;
+package FactoryPattern;
 
 public class Ship implements Transport {
     @Override

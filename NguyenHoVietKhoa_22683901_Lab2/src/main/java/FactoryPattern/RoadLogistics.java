@@ -1,4 +1,4 @@
-package entity;
+package FactoryPattern;
 
 public class RoadLogistics extends Logistics {
     public Transport createTransport(){

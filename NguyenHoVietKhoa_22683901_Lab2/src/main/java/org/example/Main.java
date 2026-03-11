@@ -1,8 +1,8 @@
 package org.example;
 
-import entity.Logistics;
-import entity.RoadLogistics;
-import entity.SeaLogistics;
+import FactoryPattern.Logistics;
+import FactoryPattern.RoadLogistics;
+import FactoryPattern.SeaLogistics;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.

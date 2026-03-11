@@ -1,4 +1,4 @@
-package entity;
+package FactoryPattern;
 
 public interface Transport {
     void deliver();
